@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17245" started-at="2019-12-16T13:45:44Z" finished-at="2019-12-16T13:46:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17245" started-at="2019-12-16T13:45:44Z" finished-at="2019-12-16T13:46:01Z">
+      <class name="Session19TestNG.Basic">
+        <test-method status="PASS" signature="normal()[pri:0, instance:Session19TestNG.Basic@26f67b76]" name="normal" duration-ms="9971" started-at="2019-12-16T19:15:44Z" finished-at="2019-12-16T19:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normal -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Session19TestNG.Basic@26f67b76]" name="login" duration-ms="7245" started-at="2019-12-16T19:15:54Z" finished-at="2019-12-16T19:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Session19TestNG.Basic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

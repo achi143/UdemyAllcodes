@@ -1,0 +1,8 @@
+16:47:08:668 [main] ERROR Log4jpackageA.Demo -button is not displayed
+16:47:08:675 [main] FATAL Log4jpackageA.Demo -button is missing
+16:48:30:752 [main] ERROR Log4jpackageB.Demo1 -object is not present
+16:48:30:763 [main] FATAL Log4jpackageB.Demo1 -this is fatal
+16:49:35:899 [main] ERROR Log4jpackageA.Demo - button is not displayed
+16:49:35:906 [main] FATAL Log4jpackageA.Demo - button is missing
+16:51:00:567 [main] ERROR Log4jpackageB.Demo1 - object is not present
+16:51:00:574 [main] FATAL Log4jpackageB.Demo1 - this is fatal
